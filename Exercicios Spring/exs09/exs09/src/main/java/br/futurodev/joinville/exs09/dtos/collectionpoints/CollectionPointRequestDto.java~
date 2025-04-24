@@ -1,0 +1,3 @@
+package br.futurodev.joinville.exs09.dtos.collectionpoints;
+
+public class CollectionPointRequestDto {}
